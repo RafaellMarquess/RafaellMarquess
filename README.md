@@ -25,8 +25,3 @@
 
 </div>
 
-<div align="right">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyOW8wNDhzcHR4Z3NiajMzdW8xc2ZuZThsdXJkbW5ha3NhYXNhZjd0cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PkKzNQjwPy7GvxZbfe/giphy-downsized-medium.gif" width="160" />
-</div>
-
-<br>
